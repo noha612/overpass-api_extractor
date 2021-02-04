@@ -1,0 +1,89 @@
+
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ÎÁÉàıÿÿÿÿ8¸ò€·ö.
+[	java:S106Í"9Replace this use of System.out or System.err by a logger.(â¼×šşÿÿÿÿ8¸ò€·ö.
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(õêé8¸ò€·ö.
+r
+java:S1192<"UDefine a constant instead of duplicating this literal "File already exists " 5 times.(ûÉªü8¸ò€·ö.
+V	java:S106•"9Replace this use of System.out or System.err by a logger.(™„à8¸ò€·ö.
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(ÎÁÉàıÿÿÿÿ8¸ò€·ö.
+v
+java:S11922"TDefine a constant instead of duplicating this literal "An error occurred " 13 times.(â¼×šşÿÿÿÿ8¸ò€·ö.
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(ÅÌ†ªÿÿÿÿÿ8¸ò€·ö.
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(ÎÁÉàıÿÿÿÿ8¸ò€·ö.
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(¥¨ÑŠøÿÿÿÿ8¸ò€·ö.
+V	java:S106½"9Replace this use of System.out or System.err by a logger.(ûÉªü8¸ò€·ö.
+[	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(½³µĞùÿÿÿÿ8¸ò€·ö.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(â¼×šşÿÿÿÿ8¸ò€·ö.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(›ÇÍàüÿÿÿÿ8¸ò€·ö.
+V	java:S106é"9Replace this use of System.out or System.err by a logger.(Ôˆ¾Û8¸ò€·ö.
+V	java:S106¾"9Replace this use of System.out or System.err by a logger.(Àûå 8¸ò€·ö.
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(›ÇÍàüÿÿÿÿ8¸ò€·ö.
+[	java:S106³"9Replace this use of System.out or System.err by a logger.(â¼×šşÿÿÿÿ8¸ò€·ö.
+[	java:S106å"9Replace this use of System.out or System.err by a logger.(â¼×šşÿÿÿÿ8¸ò€·ö.
+[	java:S106ú"9Replace this use of System.out or System.err by a logger.(â¼×šşÿÿÿÿ8¸ò€·ö.
+V	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(ò•”Œ8¸ò€·ö.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(â¼×šşÿÿÿÿ8¸ò€·ö.
+t
+java:S11926"RDefine a constant instead of duplicating this literal "start write file " 5 times.(¥¨ÑŠøÿÿÿÿ8¸ò€·ö.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(™„à8ø¶€·ö.
+[	java:S106ş"9Replace this use of System.out or System.err by a logger.(‰ıºÂùÿÿÿÿ8¸ò€·ö.
+[	java:S106¼"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ8¸ò€·ö.
+[	java:S106ü"9Replace this use of System.out or System.err by a logger.(­ÌÁüÿÿÿÿ8¸ò€·ö.
+V	java:S106¸"9Replace this use of System.out or System.err by a logger.(ÈˆŸó8¸ò€·ö.
+G
+java:S1144“")Remove this unused private "genN" method.(”«Íù8¸ò€·ö.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûÉªü8¸ò€·ö.
+M
+java:S1066¥"/Merge this if statement with the enclosing one.(Ù¯×8¸ò€·ö.
+[	java:S106Ë"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ8¸ò€·ö.
+n
+java:S1192!"QDefine a constant instead of duplicating this literal "start read file " 6 times.(™„à8ø¶€·ö.
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(™„à8¸ò€·ö.
+[	java:S106À"9Replace this use of System.out or System.err by a logger.(â¼×šşÿÿÿÿ8¸ò€·ö.
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(Àûå 8¸ò€·ö.
+[	java:S106ª"9Replace this use of System.out or System.err by a logger.(ÅÌ†ªÿÿÿÿÿ8¸ò€·ö.
+V	java:S106·"9Replace this use of System.out or System.err by a logger.(õ„8¸ò€·ö.
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(ûÉªü8¸ò€·ö.
+z
+java:S1192‡"WDefine a constant instead of duplicating this literal "begin insert E, size: " 3 times.(‚ÃÓ•øÿÿÿÿ8¸ò€·ö.
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(â¼×šşÿÿÿÿ8¸ò€·ö.
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(‘®®¾8¸ò€·ö.
+[	java:S106š"9Replace this use of System.out or System.err by a logger.(â¼×šşÿÿÿÿ8¸ò€·ö.
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(Šô‰©8¸ò€·ö.
+V	java:S106—"9Replace this use of System.out or System.err by a logger.(ûÉªü8¸ò€·ö.
+[	java:S106»"9Replace this use of System.out or System.err by a logger.(ÎÁÉàıÿÿÿÿ8¸ò€·ö.
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(‚ÃÓ•øÿÿÿÿ8¸ò€·ö.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(â¼×šşÿÿÿÿ8¸ò€·ö.
+[	java:S106Ù"9Replace this use of System.out or System.err by a logger.(ÿ¾Ğ¦øÿÿÿÿ8¸ò€·ö.
+V	java:S106Å"9Replace this use of System.out or System.err by a logger.(¯Œ¨À8¸ò€·ö.
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(›ÇÍàüÿÿÿÿ8¸ò€·ö.
+r
+java:S11924"PDefine a constant instead of duplicating this literal "done read file " 5 times.(›ÇÍàüÿÿÿÿ8¸ò€·ö.
+[	java:S106³"9Replace this use of System.out or System.err by a logger.(â¼×šşÿÿÿÿ8¸ò€·ö.
+p
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ë¨ÿÜ8¸ò€·ö.
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(Àûå 8¸ò€·ö.
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(â¼×šşÿÿÿÿ8¸ò€·ö.
+V	java:S106°"9Replace this use of System.out or System.err by a logger.(ûÉªü8¸ò€·ö.
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ8¸ò€·ö.
+p
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(”«Íù8¸ò€·ö.
+[	java:S106ç"9Replace this use of System.out or System.err by a logger.(×•ï°ùÿÿÿÿ8¸ò€·ö.
+p
+java:S1192J"SDefine a constant instead of duplicating this literal "An error occurred." 3 times.(Àûå 8¸ò€·ö.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(â¼×šşÿÿÿÿ8¸ò€·ö.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ°“Ã8¸ò€·ö.
+[	java:S106£"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ8¸ò€·ö.
+m
+java:S1192M"PDefine a constant instead of duplicating this literal "done write file" 3 times.(Šô‰©8¸ò€·ö.
+[	java:S106®"9Replace this use of System.out or System.err by a logger.(ÎÁÉàıÿÿÿÿ8¸ò€·ö.
+V	java:S106Á"9Replace this use of System.out or System.err by a logger.(Šô‰©8ø¶€·ö.
+p
+java:S1192:"NDefine a constant instead of duplicating this literal "File created " 5 times.(ÎÁÉàıÿÿÿÿ8¸ò€·ö.
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¨êÑ‡şÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(¤d
+o
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(­üï8¸ò€·ö.
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ8¸ò€·ö.
+V	java:S106¨"9Replace this use of System.out or System.err by a logger.(Šô‰©8¸ò€·ö.
